@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨💻 关于我
 
-<!--
-**qkf688/qkf688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://s21.ax1x.com/2025/02/26/pE3MutJ.md.jpg" width="200" style="border-radius: 50%; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
-Here are some ideas to get you started:
+**性格光谱**  
+`INFJ型` ・ 🧠 思考型 ・ 📚 持续性学习者
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**兴趣星球**  
+🏓 乒乓艺术家 | 🎱 台球哲学者 | 🎮 游戏世界探索者
+</div>
+
+---
+
+# 🎯 成长蓝图
+
+## 核心能力建设
+```progress
+Git 掌握度 ████ 1%  
+Markdown 熟练度 ████████ 50%  
+协作开发认知 █ 0%
+```
